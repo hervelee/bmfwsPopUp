@@ -1,7 +1,8 @@
 
  @font-face {
-font-family: "Comic Sans";
-src: url('comic-sans-ms.ttf');
+font-family: "Comic Sans", "papyrus";
+src: url('comic sans ms.ttf');
+src: url('papyrus.ttf');  
 }
 
  body{
